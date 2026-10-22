@@ -8,7 +8,7 @@ require_once __DIR__ . '/src/Rapat.php';
 
 echo "=== MINI APPLICATION OOP: HIMATIF ===<br>\n<br>\n";
 
-$anggota1 = new Anggota("2310001", "Budi Santoso");
+$anggota1 = new Anggota("2310001", "Fifi Nabilah Zulfa");
 $anggota2 = new Anggota("2310002", "Sari Wulandari");
 $pengurus1 = new PengurusHimatif("P001", "Dedi Prasetyo", "Ketua Umum");
 
