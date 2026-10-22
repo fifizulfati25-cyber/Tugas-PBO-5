@@ -2,7 +2,7 @@
 
 **Nama:** Fifi Nabilah Zulfa
 **Mata kuliah:** Pemrograman Berorientasi Objek (TI033015)
-**Tugas:** Tugas Rumah — Mini Application OOP (dikerjakan setelah kelas)
+**Tugas:** Tugas Rumah — Mini Application OOP (dikerjakan setelah kelas) ff jelek
 
 ## 1. Domain & Kandidat Class
 
